@@ -1,6 +1,7 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)](https://laaouinihaitam.io)
 <h1 align="center">Hi 👋, I'm Haitam Laaouini</h1>
 <h3 align="center">Frontend developer and Embedded System Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laaouinihaitam&label=Profile%20views&color=0e75b6&style=flat" alt="laaouinihaitam" /> </p>
 
