@@ -1,6 +1,12 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)](https://laaouinihaitam.io)
 <h1 align="center">Hi 👋, I'm Haitam Laaouini</h1>
-<h3 align="center">Frontend developer and Embedded System Engineer</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=⚙️+Data+Engineering+Student+⚙️;💻+Software+Engineering+Enthusiast+💻;📊+Data+Science+Student+📊;🧠+They+Call+Me+Heisenberg+🧠;&center=true&width=500&height=50" alt="Typing animation showing my roles and certifications">
+  </a>
+</p>
+<p>This space is dedicated to showcasing my work and projects. By exploring the various folders and files, you will find examples of my skills in coding, and problem-solving. Whether you are a potential employer, a collaborator, or simply someone interested in technology, I hope you will find something of value here.</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Heisenberghj7&label=Profile%20views&color=0e75b6&style=flat" alt="Heisenberghj" /> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laaouinihaitam&label=Profile%20views&color=0e75b6&style=flat" alt="laaouinihaitam" /> </p>
